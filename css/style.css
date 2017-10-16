@@ -1,0 +1,33 @@
+
+div {
+width: 150px;
+height: 150px;
+float: right;
+}
+
+#bb1{
+	background-image: url(../img/bb1.jpg); /* imagen de fondo */
+	background-size: 100% /*la imagen no se ve cortada, acondicionada al tamaño div */
+}
+
+#bb2{
+	background-image: url(../img/bb2.jpg); /* imagen de fondo */
+	background-size: 100% /*la imagen no se ve cortada,acondicionada al tamaño div */
+    
+}
+
+#bb3{
+	background-image: url(../img/bb3.jpg); /* imagen de fondo */
+	background-size: 100% /*la imagen no se ve cortada,acondicionada al tamaño div */
+    
+}
+
+#bb4{
+	background-image: url(../img/bb4.jpeg); /* imagen de fondo */
+	background-size: 100% /*la imagen no se ve cortada,acondicionada al tamaño div */
+}
+
+#bb5{
+	background-image: url(../img/bb5.jpg); /* imagen de fondo */
+	background-size: 100% /*la imagen no se ve cortada, acondicionada al tamaño div */
+}
